@@ -1,6 +1,6 @@
 {
-  "name": "react-complete-guide",
-  "version": "0.2.0",
+  "name": "react-food-app",
+  "version": "0.3.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
